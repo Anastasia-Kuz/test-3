@@ -1,3 +1,4 @@
 print('a')
-print('b')
+print('bb')
 print('c')
+print('a')
